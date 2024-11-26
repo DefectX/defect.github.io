@@ -75,12 +75,12 @@ function init() {
           telegram_kroysi(data) {
             let username = data.trim();
             username = username.replace('@', '');
-            return `https://t.me/kroysi`;
+            return `https://t.me/defectx_x`;
           },
           
           vk_kroysi(data) {
             let username = data.trim();
-            return `https://vk.com/kroysi`;
+            return `https://vk.com/defectxdelton`;
           }
         }
       },
